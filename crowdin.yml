@@ -1,0 +1,4 @@
+files:
+  - source: features/distro-resources/src/main/resources/transform/en.map
+    translation: >-
+      features/distro-resources/src/main/resources/transform/%two_letters_code%.map
