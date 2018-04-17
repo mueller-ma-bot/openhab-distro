@@ -2,3 +2,6 @@ files:
   - source: features/distro-resources/src/main/resources/transform/en.map
     translation: >-
       features/distro-resources/src/main/resources/transform/%two_letters_code%.map
+  - source: /features/distro-resources/src/main/resources/sitemaps/lang_en_GB.sitemap
+    translation: >-
+      /features/distro-resources/src/main/resources/sitemaps/lang_%locale_with_underscore%.sitemap
